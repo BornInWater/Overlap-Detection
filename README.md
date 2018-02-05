@@ -1,11 +1,3 @@
-The detection of overlapping speech segments is of key importance
+This is a project on overlapped speech detection in multi-party conversation meetings. We explore the effectivness of various features such as Mel Spectrogram, kurtosis etc using a neural network approach on two datasets: TIMIT and AMI. We make use of force alignment to rectify the errors inherent in human annotations of the AMI dataset.
 
-in many speech applications involving analysis of multi-party con-
-versations. The problem is challenging because these regions are
 
-typically elicited in far-field microphone recordings as short regions
-
-of the speech signal. In this paper, we propose overlap detection us-
-ing a recurrent neural network architecture consisting of long-short
-
-term memory (LSTM) models.Overlap detection
