@@ -2,7 +2,7 @@
 # Overlapped Speech detection in multi-party conversations
 
 *******************************************************
-Author: Neeraj Sajjan, Shobhana Ganesh, Neeraj Sharma, Sriram Ganapathy, Neville Ryant
+Authors: Neeraj Sajjan, Shobhana Ganesh, Neeraj Sharma, Sriram Ganapathy, Neville Ryant
 
 Reference: N. Sajjan, S. Ganesh, N. Sharma, S. Ganapathy, N.Ryant, "Leveraging LSTM models for overlap detection in multi-party meetings", IEEE International Conference on Acoustics, Speech and Signal Processing, April 2018.
 
