@@ -1,5 +1,14 @@
 # Overlapped Speech detection in Multi-party Conversations
 
+
+%******************************************************************
+% Purvi Agrawal and Sriram Ganapathy
+% Learning and Extraction of Acoustic Patterns (LEAP) Lab
+% Indian Institute of Science, Bangalore, India
+% {purvi_agrawal,sriram}@ee.iisc.ernet.in
+%******************************************************************
+
+
 This is a project on overlapped speech detection in multi-party conversation meetings. We explore the effectivness of various features such as Mel Spectrogram, kurtosis etc using a neural network approach on two datasets: [TIMIT](https://catalog.ldc.upenn.edu/ldc93s1) and [AMI](http://groups.inf.ed.ac.uk/ami/corpus/). We make use of force alignment to rectify the errors inherent in human annotations of the AMI dataset.
 
 ## Dependencies
