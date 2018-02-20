@@ -40,7 +40,7 @@ This is a project on overlapped speech detection in multi-party conversation mee
   - confusion_matrix_gen.py : Code to generate confusion matrix for three classes[Single/Overlap/Filler]
  
  ### Labels
- #### 1. *Original_Labels* : Labels of AMI train, dev[val], eval[test] sets before force alignment.
- #### 2. *Force_Aligned_Labels* : After Force alignment
+ 1. *Original_Labels* : Labels of AMI train, dev[val], eval[test] sets before force alignment.
+ 2. *Force_Aligned_Labels* : After Force alignment
 
 
