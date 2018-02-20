@@ -1,8 +1,7 @@
 
-#Overlapped Speech detection in multi-party conversations
+# Overlapped Speech detection in multi-party conversations
 
-###LEVERAGING LSTM MODELS FOR OVERLAP DETECTION IN MULTI-PARTY MEETINGS
-Neeraj Sajjan∗, Shobhana Ganesh∗, Neeraj Sharma∗, Sriram Ganapathy∗, Neville Ryant+
+### LEVERAGING LSTM MODELS FOR OVERLAP DETECTION IN MULTI-PARTY MEETINGS ,### Neeraj Sajjan∗, Shobhana Ganesh∗, Neeraj Sharma∗, Sriram Ganapathy∗, Neville Ryant+
 ∗Learning and Extraction of Acoustic Patterns (LEAP) Lab, Indian Institute of Science, Bangalore-560012
 +Linguistic Data Consortium, University of Pennsylvania, USA
 
