@@ -3,10 +3,8 @@
 
 ### Leveraging LSTM models for overlap detection in multi-party meetings 
     Neeraj Sajjan∗, Shobhana Ganesh∗, Neeraj Sharma∗, Sriram Ganapathy∗, Neville Ryant+
-
-∗Learning and Extraction of Acoustic Patterns (LEAP) Lab, Indian Institute of Science, Bangalore-560012
-
-+Linguistic Data Consortium, University of Pennsylvania, USA
+    ∗Learning and Extraction of Acoustic Patterns (LEAP) Lab, Indian Institute of Science, Bangalore-560012
+    +Linguistic Data Consortium, University of Pennsylvania, USA
 
 
 
