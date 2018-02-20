@@ -17,7 +17,7 @@ This is a project on overlapped speech detection in multi-party conversation mee
 
 ## Folder Structure and Description
 ### Codes
-####1. *Feature Handling Codes*:
+#### 1. *Feature Handling Codes*:
   - htkmfc.py : python interface to reading and writing htk files
   - htk_dataprep.sh : shell script to generate htk feature files
   - mfcc_config.cfg : config file for mel spectorgram[fbank] feature generation
@@ -31,7 +31,7 @@ This is a project on overlapped speech detection in multi-party conversation mee
   - kurtosis_extractor.py : Code to extract kurtosis
   - sfm.py : Code to extract spectral flatness measure features
   
-####2. *Model_Train_Test_Codes*:
+#### 2. *Model_Train_Test_Codes*:
   - rnn.py : Code for final lstm model in Keras
   - cnn.py : CNN model
   - dnn.py : Three layered dnn
@@ -40,7 +40,7 @@ This is a project on overlapped speech detection in multi-party conversation mee
   - confusion_matrix_gen.py : Code to generate confusion matrix for three classes[Single/Overlap/Filler]
  
  ### Labels
- ####1. *Original_Labels* : Labels of AMI train, dev[val], eval[test] sets before force alignment.
- ####2. *Force_Aligned_Labels* : After Force alignment
+ #### 1. *Original_Labels* : Labels of AMI train, dev[val], eval[test] sets before force alignment.
+ #### 2. *Force_Aligned_Labels* : After Force alignment
 
 
