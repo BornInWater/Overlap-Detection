@@ -1,7 +1,5 @@
 
-
-
-%******************************************************************
+#
 
 % ###LEVERAGING LSTM MODELS FOR OVERLAP DETECTION IN MULTI-PARTY MEETINGS
 
